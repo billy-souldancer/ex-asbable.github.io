@@ -17,7 +17,7 @@ author: ex_Asbable
 
 1.查询数列中最后L个数的最大值
 
-2.将数列末尾插入一个数，$(n+t)\ mod\ d$，t为最近一次查询操作的答案，强制在线
+2.将数列末尾插入一个数，![](http://latex.codecogs.com/gif.latex?(n+t)\ mod\ d)，t为最近一次查询操作的答案，强制在线
 
 ### 解法
 
