@@ -16,8 +16,8 @@ type: page
 
 ## 联系我
 
-* GitHub：[Eric_XuBohan](https://github.com/Eric-XuBohan)
-* email：eric_xubohan@163.com
+* GitHub：[ex-asbable](https://github.com/ex-asbable)
+* email：3600798231@qq.com
 
 ## Tips
 * 20220322：网站投入使用（已经鸽了9个月了）
