@@ -16,7 +16,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[ex-asbable](https://github.com/ex-asbable)
+* Luogu：[ex-asbable](https://github.com/ex-asbable)
 * email：3600798231@qq.com
 
 ## Tips
